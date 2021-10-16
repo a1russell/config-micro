@@ -1,4 +1,4 @@
 {
-    "keymenu": true,
-    "paste": true
+    "paste": true,
+    "statusformatr": "$(bind:ToggleHelp): help"
 }
